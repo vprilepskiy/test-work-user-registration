@@ -24,3 +24,9 @@ https://pastebin.com/CaJVHykc
 может отказать.
 Будем очень рады обоснованиям принятых архитектурных решений. Комментарии в коде к ним
 крайне приветствуются.
+
+
+Для вызова RESTа с UI: http://localhost:8090/swagger-ui/
+
+Для простомтра данных в БД: http://localhost:8090/h2-console (password:password)
+
